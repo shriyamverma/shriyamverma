@@ -1,6 +1,10 @@
 # Hi there, I'm Shriyam Verma 👋
 
-Senior Backend Engineer specializing in **Distributed Systems**, **Cloud Architecture (GCP & AWS)**, and **Event-Driven Platforms**. Currently building high-throughput Web3 indexing infrastructure and custodial enterprise solutions, with a strong foundation in Tier-1 payment services and Agentic AI workflows.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Distributed+Systems+%26+Event-Driven+Architecture;Building+Agentic+AI+%26+MCP+Workflows;High-Throughput+APIs+%26+Pipelines;Building+with+Go%2C+Java%2C+GCP+%26+AWS" alt="Typing SVG" />
+</p>
+
+Senior Software Engineer specializing in **Distributed Systems**, **Cloud Architecture (GCP & AWS)**, and **Event-Driven Platforms**. Currently building high-throughput Web3 indexing infrastructure and custodial enterprise solutions, with a strong foundation in Tier-1 payment services and Agentic AI workflows.
 
 ---
 
@@ -27,8 +31,20 @@ Senior Backend Engineer specializing in **Distributed Systems**, **Cloud Archite
 ![Apache Pub/Sub](https://img.shields.io/badge/GCP_Pub%2FSub-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF4F8B?style=flat-square&logo=amazon-sqs&logoColor=white)
 
-**Architecture & Workflow**  
-`Microservices` • `Event-Driven Design` • `Serverless` • `CI/CD GitOps` • `Agentic AI (MCP / Devin / Claude)`
+**AI & Autonomous Engineering**  
+![Claude](https://img.shields.io/badge/Claude_3.5-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/MCP-Protocol-6366F1?style=flat-square&logo=diagram-next&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-Editor-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Devin AI](https://img.shields.io/badge/Devin_AI-Cognition-0EA5E9?style=flat-square&logo=openai&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_AI-Autonomous_Systems-10B981?style=flat-square&logo=bot&logoColor=white)
+
+**Architecture & Practices**  
+![Microservices](https://img.shields.io/badge/Microservices-34495E?style=flat-square&logo=diagram-project&logoColor=white)
+![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven_Design-008080?style=flat-square&logo=apache-kafka&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![CI/CD GitOps](https://img.shields.io/badge/CI%2FCD-GitOps-4A154B?style=flat-square&logo=git&logoColor=white)
+![REST & Webhooks](https://img.shields.io/badge/REST_%26_Webhooks-2563EB?style=flat-square&logo=fastapi&logoColor=white)
+![Resilience & Fault Tolerance](https://img.shields.io/badge/Resilience_%26_Fault_Tolerance-059669?style=flat-square&logo=prometheus&logoColor=white)
 
 ---
 
@@ -41,9 +57,6 @@ Senior Backend Engineer specializing in **Distributed Systems**, **Cloud Archite
   <img src="https://img.shields.io/badge/HackerRank-6★_Problem_Solving-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
 </p>
 
-
-
-
 ---
 
 ### 📊 GitHub Activity
@@ -54,15 +67,13 @@ Senior Backend Engineer specializing in **Distributed Systems**, **Cloud Archite
 </p>
 
 <!-- 1. Overall GitHub Stats & Top Languages -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=shriyamverma&show_icons=true&theme=tokyonight&hide_border=true" alt="Shriyam's GitHub Stats" />
 </p>
 
 <!-- 2. Contribution Streak Tracker -->
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=shriyamverma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-
 
 ---
